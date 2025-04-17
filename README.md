@@ -30,6 +30,7 @@ Instale as dependências necessárias:
 pip install -r requirements.txt
 
 Crie ou atualize um arquivo .env na raiz do projeto com suas credenciais da Binance: utilize o .env.example
+
 BINANCE_API_KEY=SuaAPIKey
 BINANCE_SECRET_KEY=SuaSecretKey
 
