@@ -298,7 +298,7 @@ frame_top.pack(fill=X)
 
 # Inicializando o estilo
 style = tb.Style()
-style.configure("TLabel", font=("Segoe UI", 10, labelcolor="green"))
+style.configure("TLabel", font=("Segoe UI", 10))
 style.configure("TButton", font=("Segoe UI", 10, "bold"))
 
 # Criar a variável StringVar após a janela principal ser criada
@@ -406,4 +406,3 @@ canvas.get_tk_widget().pack(fill=BOTH, expand=True)
 
 # Inicia o app
 app.mainloop()
-
