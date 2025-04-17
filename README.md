@@ -44,3 +44,8 @@ O robô realiza operações de compra e venda com base nas condições definidas
 Use com cautela em ambientes de teste antes de operar com quantias significativas.
 O robô foi desenvolvido para funcionar com criptomoedas na Binance, mas pode ser adaptado para outras exchanges.
 
+![Captura de tela de 2025-04-17 18-48-31](https://github.com/user-attachments/assets/58695708-67a5-4204-a06d-a852d2ec870d)
+
+
+![image](https://github.com/user-attachments/assets/e0bd2a6c-02df-4e85-9e3a-efbd2546a32d)
+
