@@ -1,0 +1,7 @@
+python-binance
+pandas
+numpy
+matplotlib
+datetime
+python-dotenv
+ttkbootstrap
